@@ -1,0 +1,20 @@
+2024-01-09 14:15:11,636 - Namespace(Ks=3, Kt=3, adapter=False, batch_size=128, block_num=2, clip_grad_value=5, dataset='PEMS07', device='cuda:0', dropout=0.3, embed_dim=10, end_dim=512, frozen=False, gamma=0.95, horizon=12, input_dim=2, lrate=0.001, max_epochs=100, mode='train', model='stgcn', num_layers=1, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, step_size=10, wdecay=0.0005, years='2017')
+2024-01-09 14:15:11,636 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pems07/pems07_rn_adj.npy
+2024-01-09 15:26:26,632 - Namespace(Ks=3, Kt=3, adapter=False, batch_size=128, block_num=2, clip_grad_value=5, dataset='PEMS07', device='cuda:0', dropout=0.3, embed_dim=10, end_dim=512, frozen=False, gamma=0.95, horizon=12, input_dim=2, lrate=0.001, max_epochs=100, mode='train', model='stgcn', num_layers=1, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, step_size=10, wdecay=0.0005, years='2017')
+2024-01-09 15:26:26,632 - Adj path: /home/yuxuan/rwl/LAST/data/pems07/pems07_rn_adj.npy
+2024-01-09 15:26:28,426 - Data shape: (28224, 883, 3)
+2024-01-09 15:26:29,885 - Sample num: 16921, Batch num: 132
+2024-01-09 15:26:31,334 - Sample num: 5640, Batch num: 44
+2024-01-09 15:26:32,791 - Sample num: 5640, Batch num: 44
+2024-01-09 15:29:04,241 - Namespace(Ks=3, Kt=3, adapter=False, batch_size=64, block_num=2, clip_grad_value=5, dataset='PEMS07', device='cuda:0', dropout=0.3, embed_dim=10, end_dim=512, frozen=False, gamma=0.95, horizon=12, input_dim=2, lrate=0.001, max_epochs=100, mode='train', model='stgcn', num_layers=1, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, step_size=10, wdecay=0.0005, years='2017')
+2024-01-09 15:29:04,242 - Adj path: /home/yuxuan/rwl/LAST/data/pems07/pems07_rn_adj.npy
+2024-01-09 15:29:06,090 - Data shape: (28224, 883, 3)
+2024-01-09 15:29:07,547 - Sample num: 16921, Batch num: 264
+2024-01-09 15:29:08,998 - Sample num: 5640, Batch num: 88
+2024-01-09 15:29:10,454 - Sample num: 5640, Batch num: 88
+2024-01-16 12:42:44,325 - Namespace(Ks=3, Kt=3, adapter=False, batch_size=64, block_num=2, clip_grad_value=5, dataset='PEMS07', device='cuda:0', dropout=0.3, embed_dim=10, end_dim=512, frozen=False, gamma=0.95, horizon=12, input_dim=2, lrate=0.001, max_epochs=100, mode='train', model='stgcn', num_layers=1, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, step_size=10, wdecay=0.0005, years='2017')
+2024-01-16 12:42:44,328 - Adj path: /home/yuxuan/rwl/LAST/data/pems07/pems07_rn_adj.npy
+2024-01-16 12:42:46,304 - Data shape: (28224, 883, 3)
+2024-01-16 12:42:47,877 - Sample num: 16921, Batch num: 264
+2024-01-16 12:42:49,471 - Sample num: 5640, Batch num: 88
+2024-01-16 12:42:51,053 - Sample num: 5640, Batch num: 88

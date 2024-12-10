@@ -1,0 +1,40 @@
+2023-12-12 16:47:10,360 - Namespace(Ks=3, Kt=3, addition={'Kt': 3, 'Ks': 3, 'block_num': 2, 'step_size': 10, 'end_dim': 512, 'gamma': 0.95}, batch_size=128, block_num=2, clip_grad_value=5, dataset='PEMSBAY', device='cuda:0', dropout=0.3, end_dim=512, epochs=10, frozen=False, gamma=0.95, horizon=12, input_dim=2, lrate=0.001, mode='train', model='stgcn', output_dim=1, patience=10, pre_train='', save='stgcn_pemsbay', seed=998244353, seq_length=12, step_size=10, wdecay=0.0005, years='2017')
+2023-12-12 16:47:10,361 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pemsbay/pemsbay_rn_adj.npy
+2023-12-12 16:47:11,959 - Data shape: (52116, 325, 3)
+2023-12-12 16:47:12,925 - Sample num: 36465, Batch num: 284
+2023-12-12 16:47:13,909 - Sample num: 5209, Batch num: 40
+2023-12-12 16:47:14,868 - Sample num: 10419, Batch num: 81
+2023-12-12 16:47:15,175 - The number of parameters: 306892
+2023-12-12 16:47:15,176 - Start training!
+2023-12-12 16:48:15,341 - Epoch: 001, Train Loss: 2.3052, Train RMSE: 5.0021, Train MAPE: 0.0541, Valid Loss: 2.1225, Valid RMSE: 4.9031, Valid MAPE: 0.0500, Train Time: 54.6612s/epoch, Valid Time: 5.5030s, LR: 1.0000e-03
+2023-12-12 16:48:15,352 - Val loss decrease from inf to 2.1225
+2023-12-12 16:49:14,697 - Epoch: 002, Train Loss: 1.9484, Train RMSE: 4.3548, Train MAPE: 0.0444, Valid Loss: 2.0347, Valid RMSE: 4.6910, Valid MAPE: 0.0504, Train Time: 53.8069s/epoch, Valid Time: 5.5381s, LR: 1.0000e-03
+2023-12-12 16:49:14,705 - Val loss decrease from 2.1225 to 2.0347
+2023-12-12 16:50:14,383 - Epoch: 003, Train Loss: 1.8717, Train RMSE: 4.1821, Train MAPE: 0.0427, Valid Loss: 1.9605, Valid RMSE: 4.4979, Valid MAPE: 0.0457, Train Time: 54.1086s/epoch, Valid Time: 5.5694s, LR: 1.0000e-03
+2023-12-12 16:50:14,397 - Val loss decrease from 2.0347 to 1.9605
+2023-12-12 16:51:10,006 - Epoch: 004, Train Loss: 1.8293, Train RMSE: 4.0759, Train MAPE: 0.0416, Valid Loss: 1.8916, Valid RMSE: 4.3261, Valid MAPE: 0.0448, Train Time: 50.1898s/epoch, Valid Time: 5.4186s, LR: 1.0000e-03
+2023-12-12 16:51:10,013 - Val loss decrease from 1.9605 to 1.8916
+2023-12-12 16:52:08,142 - Epoch: 005, Train Loss: 1.7861, Train RMSE: 3.9662, Train MAPE: 0.0405, Valid Loss: 1.8687, Valid RMSE: 4.2776, Valid MAPE: 0.0450, Train Time: 52.6817s/epoch, Valid Time: 5.4465s, LR: 1.0000e-03
+2023-12-12 16:52:08,149 - Val loss decrease from 1.8916 to 1.8687
+2023-12-12 16:53:06,535 - Epoch: 006, Train Loss: 1.7406, Train RMSE: 3.8394, Train MAPE: 0.0393, Valid Loss: 1.8372, Valid RMSE: 4.0658, Valid MAPE: 0.0421, Train Time: 52.8693s/epoch, Valid Time: 5.5159s, LR: 1.0000e-03
+2023-12-12 16:53:06,542 - Val loss decrease from 1.8687 to 1.8372
+2023-12-12 16:54:05,673 - Epoch: 007, Train Loss: 1.7156, Train RMSE: 3.7551, Train MAPE: 0.0385, Valid Loss: 1.8017, Valid RMSE: 4.0810, Valid MAPE: 0.0424, Train Time: 53.6330s/epoch, Valid Time: 5.4978s, LR: 1.0000e-03
+2023-12-12 16:54:05,684 - Val loss decrease from 1.8372 to 1.8017
+2023-12-12 16:55:01,170 - Epoch: 008, Train Loss: 1.6920, Train RMSE: 3.6863, Train MAPE: 0.0378, Valid Loss: 1.8111, Valid RMSE: 4.0750, Valid MAPE: 0.0417, Train Time: 50.2204s/epoch, Valid Time: 5.2657s, LR: 1.0000e-03
+2023-12-12 16:55:57,143 - Epoch: 009, Train Loss: 1.6805, Train RMSE: 3.6481, Train MAPE: 0.0373, Valid Loss: 1.7849, Valid RMSE: 4.0443, Valid MAPE: 0.0423, Train Time: 50.7467s/epoch, Valid Time: 5.2249s, LR: 1.0000e-03
+2023-12-12 16:55:57,149 - Val loss decrease from 1.8017 to 1.7849
+2023-12-12 16:56:55,237 - Epoch: 010, Train Loss: 1.6618, Train RMSE: 3.6080, Train MAPE: 0.0369, Valid Loss: 1.8438, Valid RMSE: 4.0424, Valid MAPE: 0.0413, Train Time: 52.5605s/epoch, Valid Time: 5.5273s, LR: 1.0000e-03
+2023-12-12 16:56:55,238 - best valid_loss:1.784859
+2023-12-12 16:57:05,503 - Horizon 1, Test MAE: 1.0297, Test RMSE: 1.8393, Test MAPE: 0.0212
+2023-12-12 16:57:05,527 - Horizon 2, Test MAE: 1.2558, Test RMSE: 2.4399, Test MAPE: 0.0265
+2023-12-12 16:57:05,551 - Horizon 3, Test MAE: 1.4373, Test RMSE: 2.9529, Test MAPE: 0.0312
+2023-12-12 16:57:05,574 - Horizon 4, Test MAE: 1.5812, Test RMSE: 3.3620, Test MAPE: 0.0354
+2023-12-12 16:57:05,598 - Horizon 5, Test MAE: 1.6977, Test RMSE: 3.6894, Test MAPE: 0.0390
+2023-12-12 16:57:05,622 - Horizon 6, Test MAE: 1.7898, Test RMSE: 3.9512, Test MAPE: 0.0420
+2023-12-12 16:57:05,646 - Horizon 7, Test MAE: 1.8670, Test RMSE: 4.1669, Test MAPE: 0.0445
+2023-12-12 16:57:05,670 - Horizon 8, Test MAE: 1.9344, Test RMSE: 4.3460, Test MAPE: 0.0466
+2023-12-12 16:57:05,694 - Horizon 9, Test MAE: 1.9920, Test RMSE: 4.4975, Test MAPE: 0.0483
+2023-12-12 16:57:05,718 - Horizon 10, Test MAE: 2.0480, Test RMSE: 4.6334, Test MAPE: 0.0499
+2023-12-12 16:57:05,741 - Horizon 11, Test MAE: 2.1016, Test RMSE: 4.7604, Test MAPE: 0.0515
+2023-12-12 16:57:05,765 - Horizon 12, Test MAE: 2.1600, Test RMSE: 4.8906, Test MAPE: 0.0531
+2023-12-12 16:57:05,766 - Average Test MAE: 1.7412, Test RMSE: 3.7941, Test MAPE: 0.0408

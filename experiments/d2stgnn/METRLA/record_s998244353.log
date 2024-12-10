@@ -1,0 +1,38 @@
+2023-12-06 14:17:03,234 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, hidden_dim=8, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:17:03,235 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:17:04,121 - Data shape: (34272, 207, 3)
+2023-12-06 14:17:04,600 - Sample num: 23974, Batch num: 187
+2023-12-06 14:17:05,077 - Sample num: 3425, Batch num: 26
+2023-12-06 14:17:05,556 - Sample num: 6850, Batch num: 53
+2023-12-06 14:18:06,539 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:18:06,541 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:18:07,529 - Data shape: (34272, 207, 3)
+2023-12-06 14:18:08,005 - Sample num: 23974, Batch num: 187
+2023-12-06 14:18:08,483 - Sample num: 3425, Batch num: 26
+2023-12-06 14:18:08,956 - Sample num: 6850, Batch num: 53
+2023-12-06 14:23:05,044 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:23:05,045 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:23:05,942 - Data shape: (34272, 207, 3)
+2023-12-06 14:23:06,431 - Sample num: 23974, Batch num: 187
+2023-12-06 14:23:06,912 - Sample num: 3425, Batch num: 26
+2023-12-06 14:23:07,426 - Sample num: 6850, Batch num: 53
+2023-12-06 14:24:33,625 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:24:33,626 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:24:34,587 - Data shape: (34272, 207, 3)
+2023-12-06 14:24:35,078 - Sample num: 23974, Batch num: 187
+2023-12-06 14:24:35,577 - Sample num: 3425, Batch num: 26
+2023-12-06 14:24:36,125 - Sample num: 6850, Batch num: 53
+2023-12-06 14:28:50,243 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:28:50,244 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:28:51,196 - Data shape: (34272, 207, 3)
+2023-12-06 14:28:51,665 - Sample num: 23974, Batch num: 187
+2023-12-06 14:28:52,140 - Sample num: 3425, Batch num: 26
+2023-12-06 14:28:52,628 - Sample num: 6850, Batch num: 53
+2023-12-06 14:30:58,663 - Namespace(addition={'num_feat': 1, 'num_hidden': 32, 'node_hidden': 12, 'time_emb_dim': 12, 'layer': 5, 'k_t': 3, 'k_s': 2, 'gap': 3, 'cl_epoch': 3, 'warm_epoch': 30, 'tpd': 96}, batch_size=128, cl_epoch=3, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, epochs=10, frozen=False, gap=3, horizon=12, input_dim=2, k_s=2, k_t=3, layer=5, lrate=0.001, mode='train', model='d2stgnn', node_hidden=12, num_feat=1, num_hidden=32, output_dim=1, patience=10, pre_train='', save='d2stgnn_metrla', seed=998244353, seq_length=12, time_emb_dim=12, tpd=96, warm_epoch=30, wdecay=0.0005, years='2012')
+2023-12-06 14:30:58,664 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-06 14:30:59,660 - Data shape: (34272, 207, 3)
+2023-12-06 14:31:00,133 - Sample num: 23974, Batch num: 187
+2023-12-06 14:31:00,597 - Sample num: 3425, Batch num: 26
+2023-12-06 14:31:01,067 - Sample num: 6850, Batch num: 53
+2023-12-06 14:31:01,555 - The number of parameters: 394084
+2023-12-06 14:31:01,556 - Start training!

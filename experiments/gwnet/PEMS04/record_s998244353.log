@@ -1,0 +1,210 @@
+2024-04-18 01:46:07,548 - Namespace(adapter=False, adj_type='doubletransition', adp_adj=1, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=24, end_dim=512, frozen=False, horizon=12, init_dim=32, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pt', seed=998244353, seq_length=12, skip_dim=256, wdecay=0.0005, years='2018')
+2024-04-18 01:46:07,607 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-18 19:02:03,532 - Namespace(adapter=False, adj_type='doubletransition', adp_adj=1, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=24, end_dim=512, frozen=False, horizon=12, init_dim=32, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pt', seed=998244353, seq_length=12, skip_dim=256, wdecay=0.0005, years='2018')
+2024-04-18 19:02:03,579 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-18 19:02:03,929 - Data shape: (16992, 307, 3)
+2024-04-18 19:02:04,224 - Sample num: 10181, Batch num: 159
+2024-04-18 19:02:04,524 - Sample num: 3394, Batch num: 53
+2024-04-18 19:02:04,837 - Sample num: 3394, Batch num: 53
+2024-04-19 01:50:48,674 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, wdecay=0.0005, years='2018')
+2024-04-19 01:50:48,736 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 04:26:45,236 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, wdecay=0.0005, years='2018')
+2024-04-19 04:26:45,277 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 04:26:45,752 - Data shape: (16992, 307, 3)
+2024-04-19 04:26:46,144 - Sample num: 10181, Batch num: 159
+2024-04-19 04:26:46,620 - Sample num: 3394, Batch num: 53
+2024-04-19 04:26:47,001 - Sample num: 3394, Batch num: 53
+2024-04-19 04:28:27,813 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 04:28:27,816 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 04:28:28,267 - Data shape: (16992, 307, 3)
+2024-04-19 04:28:28,680 - Sample num: 10181, Batch num: 159
+2024-04-19 04:28:29,070 - Sample num: 3394, Batch num: 53
+2024-04-19 04:28:29,468 - Sample num: 3394, Batch num: 53
+2024-04-19 04:31:10,771 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 04:31:10,774 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 04:31:11,146 - Data shape: (16992, 307, 3)
+2024-04-19 04:31:11,559 - Sample num: 10181, Batch num: 159
+2024-04-19 04:31:12,075 - Sample num: 3394, Batch num: 53
+2024-04-19 04:31:12,564 - Sample num: 3394, Batch num: 53
+2024-04-19 05:05:40,798 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 05:05:40,800 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 05:05:41,254 - Data shape: (16992, 307, 3)
+2024-04-19 05:05:41,669 - Sample num: 10181, Batch num: 159
+2024-04-19 05:05:42,097 - Sample num: 3394, Batch num: 53
+2024-04-19 05:05:42,627 - Sample num: 3394, Batch num: 53
+2024-04-19 05:07:27,913 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 05:07:27,916 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 05:07:28,296 - Data shape: (16992, 307, 3)
+2024-04-19 05:07:28,672 - Sample num: 10181, Batch num: 159
+2024-04-19 05:07:29,032 - Sample num: 3394, Batch num: 53
+2024-04-19 05:07:29,397 - Sample num: 3394, Batch num: 53
+2024-04-19 05:39:27,539 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 05:39:27,542 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 05:39:27,933 - Data shape: (16992, 307, 3)
+2024-04-19 05:39:28,290 - Sample num: 10181, Batch num: 159
+2024-04-19 05:39:28,660 - Sample num: 3394, Batch num: 53
+2024-04-19 05:39:29,087 - Sample num: 3394, Batch num: 53
+2024-04-19 16:40:02,299 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:40:02,301 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:40:02,614 - Data shape: (16992, 307, 3)
+2024-04-19 16:40:02,913 - Sample num: 10181, Batch num: 159
+2024-04-19 16:40:03,202 - Sample num: 3394, Batch num: 53
+2024-04-19 16:40:03,486 - Sample num: 3394, Batch num: 53
+2024-04-19 16:47:50,048 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:47:50,050 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:47:50,342 - Data shape: (16992, 307, 3)
+2024-04-19 16:47:50,619 - Sample num: 10181, Batch num: 159
+2024-04-19 16:47:50,896 - Sample num: 3394, Batch num: 53
+2024-04-19 16:47:51,182 - Sample num: 3394, Batch num: 53
+2024-04-19 16:50:44,869 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:50:44,874 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:50:45,169 - Data shape: (16992, 307, 3)
+2024-04-19 16:50:45,452 - Sample num: 10181, Batch num: 159
+2024-04-19 16:50:45,752 - Sample num: 3394, Batch num: 53
+2024-04-19 16:50:46,039 - Sample num: 3394, Batch num: 53
+2024-04-19 16:52:03,730 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:52:03,733 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:52:04,024 - Data shape: (16992, 307, 3)
+2024-04-19 16:52:04,304 - Sample num: 10181, Batch num: 159
+2024-04-19 16:52:04,591 - Sample num: 3394, Batch num: 53
+2024-04-19 16:52:04,877 - Sample num: 3394, Batch num: 53
+2024-04-19 16:52:43,447 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:52:43,450 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:52:43,769 - Data shape: (16992, 307, 3)
+2024-04-19 16:52:44,065 - Sample num: 10181, Batch num: 159
+2024-04-19 16:52:44,355 - Sample num: 3394, Batch num: 53
+2024-04-19 16:52:44,644 - Sample num: 3394, Batch num: 53
+2024-04-19 16:55:54,153 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 16:55:54,157 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 16:55:54,476 - Data shape: (16992, 307, 3)
+2024-04-19 16:55:54,762 - Sample num: 10181, Batch num: 159
+2024-04-19 16:55:55,095 - Sample num: 3394, Batch num: 53
+2024-04-19 16:55:55,423 - Sample num: 3394, Batch num: 53
+2024-04-19 16:55:55,980 - The number of parameters: 1980417
+2024-04-19 16:55:55,993 - Start training!
+2024-04-19 23:23:11,392 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:23:11,395 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:23:11,728 - Data shape: (16992, 307, 3)
+2024-04-19 23:23:12,045 - Sample num: 10181, Batch num: 159
+2024-04-19 23:23:12,343 - Sample num: 3394, Batch num: 53
+2024-04-19 23:23:12,649 - Sample num: 3394, Batch num: 53
+2024-04-19 23:23:13,171 - The number of parameters: 1980417
+2024-04-19 23:23:13,172 - Start training!
+2024-04-19 23:26:59,998 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:27:00,000 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:27:00,306 - Data shape: (16992, 307, 3)
+2024-04-19 23:27:00,590 - Sample num: 10181, Batch num: 159
+2024-04-19 23:27:00,875 - Sample num: 3394, Batch num: 53
+2024-04-19 23:27:01,173 - Sample num: 3394, Batch num: 53
+2024-04-19 23:27:01,458 - The number of parameters: 1980417
+2024-04-19 23:27:01,460 - Start training!
+2024-04-19 23:27:43,705 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:27:43,709 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:27:44,008 - Data shape: (16992, 307, 3)
+2024-04-19 23:27:44,304 - Sample num: 10181, Batch num: 159
+2024-04-19 23:27:44,602 - Sample num: 3394, Batch num: 53
+2024-04-19 23:27:44,888 - Sample num: 3394, Batch num: 53
+2024-04-19 23:29:17,220 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:29:17,223 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:29:17,526 - Data shape: (16992, 307, 3)
+2024-04-19 23:29:17,819 - Sample num: 10181, Batch num: 159
+2024-04-19 23:29:18,119 - Sample num: 3394, Batch num: 53
+2024-04-19 23:29:18,407 - Sample num: 3394, Batch num: 53
+2024-04-19 23:29:18,630 - The number of parameters: 1980417
+2024-04-19 23:29:18,631 - Start training!
+2024-04-19 23:29:38,206 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:29:38,209 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:29:38,508 - Data shape: (16992, 307, 3)
+2024-04-19 23:29:38,790 - Sample num: 10181, Batch num: 159
+2024-04-19 23:29:39,069 - Sample num: 3394, Batch num: 53
+2024-04-19 23:29:39,349 - Sample num: 3394, Batch num: 53
+2024-04-19 23:29:39,578 - The number of parameters: 1980417
+2024-04-19 23:29:39,580 - Start training!
+2024-04-19 23:32:03,794 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:32:03,797 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:32:04,104 - Data shape: (16992, 307, 3)
+2024-04-19 23:32:04,385 - Sample num: 10181, Batch num: 159
+2024-04-19 23:32:04,672 - Sample num: 3394, Batch num: 53
+2024-04-19 23:32:04,954 - Sample num: 3394, Batch num: 53
+2024-04-19 23:32:05,216 - The number of parameters: 1980417
+2024-04-19 23:32:05,217 - Start training!
+2024-04-19 23:32:46,197 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:32:46,201 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:32:46,492 - Data shape: (16992, 307, 3)
+2024-04-19 23:32:46,776 - Sample num: 10181, Batch num: 159
+2024-04-19 23:32:47,060 - Sample num: 3394, Batch num: 53
+2024-04-19 23:32:47,359 - Sample num: 3394, Batch num: 53
+2024-04-19 23:32:47,567 - The number of parameters: 1980417
+2024-04-19 23:32:47,568 - Start training!
+2024-04-19 23:33:13,822 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:33:13,825 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:33:14,120 - Data shape: (16992, 307, 3)
+2024-04-19 23:33:14,405 - Sample num: 10181, Batch num: 159
+2024-04-19 23:33:14,694 - Sample num: 3394, Batch num: 53
+2024-04-19 23:33:14,991 - Sample num: 3394, Batch num: 53
+2024-04-19 23:33:15,199 - The number of parameters: 1980417
+2024-04-19 23:33:15,200 - Start training!
+2024-04-19 23:33:31,803 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:33:31,805 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:33:32,105 - Data shape: (16992, 307, 3)
+2024-04-19 23:33:32,394 - Sample num: 10181, Batch num: 159
+2024-04-19 23:33:32,680 - Sample num: 3394, Batch num: 53
+2024-04-19 23:33:32,971 - Sample num: 3394, Batch num: 53
+2024-04-19 23:33:33,184 - The number of parameters: 1980417
+2024-04-19 23:33:33,185 - Start training!
+2024-04-19 23:34:00,375 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-19 23:34:00,378 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-19 23:34:00,665 - Data shape: (16992, 307, 3)
+2024-04-19 23:34:00,942 - Sample num: 10181, Batch num: 159
+2024-04-19 23:34:01,219 - Sample num: 3394, Batch num: 53
+2024-04-19 23:34:01,509 - Sample num: 3394, Batch num: 53
+2024-04-19 23:34:01,710 - The number of parameters: 1980417
+2024-04-19 23:34:01,711 - Start training!
+2024-04-23 11:28:30,925 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 11:28:30,979 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 11:28:31,441 - Data shape: (16992, 307, 3)
+2024-04-23 11:28:31,768 - Sample num: 10181, Batch num: 159
+2024-04-23 11:28:32,118 - Sample num: 3394, Batch num: 53
+2024-04-23 11:28:32,427 - Sample num: 3394, Batch num: 53
+2024-04-23 11:28:33,995 - The number of parameters: 1980417
+2024-04-23 11:28:33,996 - Start training!
+2024-04-23 11:32:04,850 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 11:32:04,872 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 11:32:05,177 - Data shape: (16992, 307, 3)
+2024-04-23 11:32:05,468 - Sample num: 10181, Batch num: 159
+2024-04-23 11:32:05,771 - Sample num: 3394, Batch num: 53
+2024-04-23 11:32:06,076 - Sample num: 3394, Batch num: 53
+2024-04-23 11:32:06,398 - The number of parameters: 1980417
+2024-04-23 11:32:06,399 - Start training!
+2024-04-23 11:33:01,452 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 11:33:01,456 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 11:33:01,751 - Data shape: (16992, 307, 3)
+2024-04-23 11:33:02,046 - Sample num: 10181, Batch num: 159
+2024-04-23 11:33:02,348 - Sample num: 3394, Batch num: 53
+2024-04-23 11:33:02,628 - Sample num: 3394, Batch num: 53
+2024-04-23 11:33:02,857 - The number of parameters: 1980417
+2024-04-23 11:33:02,858 - Start training!
+2024-04-23 11:35:12,966 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 11:35:12,970 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 11:35:13,263 - Data shape: (16992, 307, 3)
+2024-04-23 11:35:13,557 - Sample num: 10181, Batch num: 159
+2024-04-23 11:35:13,845 - Sample num: 3394, Batch num: 53
+2024-04-23 11:35:14,135 - Sample num: 3394, Batch num: 53
+2024-04-23 11:35:14,538 - The number of parameters: 1980417
+2024-04-23 11:35:14,539 - Start training!
+2024-04-23 12:34:02,588 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 12:34:02,612 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 12:34:02,918 - Data shape: (16992, 307, 3)
+2024-04-23 12:34:03,223 - Sample num: 10181, Batch num: 159
+2024-04-23 12:34:03,513 - Sample num: 3394, Batch num: 53
+2024-04-23 12:34:03,801 - Sample num: 3394, Batch num: 53
+2024-04-23 12:34:04,085 - The number of parameters: 1979997
+2024-04-23 12:34:04,086 - Start training!
+2024-04-23 12:35:25,957 - Namespace(adaptive_embedding_dim=80, batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dow_embedding_dim=24, dropout=0.3, feed_forward_dim=256, horizon=12, in_steps=12, input_dim=3, input_embedding_dim=24, lr_decay=0.5, lr_step=30, lrate=0.001, max_epochs=200, mode='train', model='gwnet', nor_adj=False, num_heads=4, num_layers=3, out_steps=12, output_dim=1, patience=10, seed=998244353, seq_length=12, spatial_embedding_dim=0, steps_per_day=288, tod_embedding_dim=24, use_mixed_proj=False, wdecay=0.0005, years='2018')
+2024-04-23 12:35:25,960 - Adj path: C:\Users\lenovo\Documents\GitHub\TF-Mamba/data/pems04/pems04_rn_adj.npy
+2024-04-23 12:35:26,266 - Data shape: (16992, 307, 3)
+2024-04-23 12:35:26,578 - Sample num: 10181, Batch num: 159
+2024-04-23 12:35:26,865 - Sample num: 3394, Batch num: 53
+2024-04-23 12:35:27,155 - Sample num: 3394, Batch num: 53
+2024-04-23 12:35:27,436 - The number of parameters: 1985013
+2024-04-23 12:35:27,437 - Start training!

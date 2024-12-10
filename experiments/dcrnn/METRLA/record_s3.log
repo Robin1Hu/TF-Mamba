@@ -1,0 +1,8 @@
+2023-12-21 01:14:04,949 - Namespace(adapter=True, addition={'n_filters': 64, 'max_diffusion_step': 2, 'filter_type': 'doubletransition', 'num_rnn_layers': 2, 'cl_decay_steps': 2000}, batch_size=128, cl_decay_steps=2000, clip_grad_value=5, dataset='METRLA', device='cuda:1', dropout=0.3, embed_dim=10, filter_type='doubletransition', frozen=False, horizon=12, input_dim=2, lrate=0.001, max_diffusion_step=2, max_epochs=100, mode='train', model='dcrnn', n_filters=64, num_layers=1, num_rnn_layers=2, output_dim=1, patience=10, pre_train='', save='dcrnn_adapter_metrla_3', seed=3, seq_length=12, wdecay=0.0005, years='2012')
+2023-12-21 01:14:04,950 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-21 01:14:06,164 - Data shape: (34272, 207, 3)
+2023-12-21 01:14:06,742 - Sample num: 23974, Batch num: 187
+2023-12-21 01:14:07,253 - Sample num: 3425, Batch num: 26
+2023-12-21 01:14:07,718 - Sample num: 6850, Batch num: 53
+2023-12-21 01:14:08,059 - The number of parameters: 372353
+2023-12-21 01:14:08,063 - Start training!

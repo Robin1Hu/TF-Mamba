@@ -1,0 +1,282 @@
+2024-03-14 03:28:28,350 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:28:28,379 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:28:28,859 - Data shape: (16992, 307, 3)
+2024-03-14 03:28:29,162 - Sample num: 10181, Batch num: 159
+2024-03-14 03:28:29,455 - Sample num: 3394, Batch num: 53
+2024-03-14 03:28:29,751 - Sample num: 3394, Batch num: 53
+2024-03-14 03:28:46,954 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:28:46,958 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:28:47,253 - Data shape: (16992, 307, 3)
+2024-03-14 03:28:47,546 - Sample num: 10181, Batch num: 159
+2024-03-14 03:28:47,832 - Sample num: 3394, Batch num: 53
+2024-03-14 03:28:48,113 - Sample num: 3394, Batch num: 53
+2024-03-14 03:29:11,219 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:29:11,222 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:29:11,521 - Data shape: (16992, 307, 3)
+2024-03-14 03:29:11,808 - Sample num: 10181, Batch num: 159
+2024-03-14 03:29:12,090 - Sample num: 3394, Batch num: 53
+2024-03-14 03:29:12,395 - Sample num: 3394, Batch num: 53
+2024-03-14 03:30:50,889 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:30:50,891 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:30:51,186 - Data shape: (16992, 307, 3)
+2024-03-14 03:30:51,470 - Sample num: 10181, Batch num: 159
+2024-03-14 03:30:51,758 - Sample num: 3394, Batch num: 53
+2024-03-14 03:30:52,051 - Sample num: 3394, Batch num: 53
+2024-03-14 03:35:24,767 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:35:24,772 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:35:25,095 - Data shape: (16992, 307, 3)
+2024-03-14 03:35:25,392 - Sample num: 10181, Batch num: 159
+2024-03-14 03:35:25,712 - Sample num: 3394, Batch num: 53
+2024-03-14 03:35:26,003 - Sample num: 3394, Batch num: 53
+2024-03-14 03:37:38,654 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:37:38,656 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:37:38,949 - Data shape: (16992, 307, 3)
+2024-03-14 03:37:39,231 - Sample num: 10181, Batch num: 159
+2024-03-14 03:37:39,516 - Sample num: 3394, Batch num: 53
+2024-03-14 03:37:39,797 - Sample num: 3394, Batch num: 53
+2024-03-14 03:38:02,398 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:38:02,401 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:38:02,699 - Data shape: (16992, 307, 3)
+2024-03-14 03:38:02,987 - Sample num: 10181, Batch num: 159
+2024-03-14 03:38:03,268 - Sample num: 3394, Batch num: 53
+2024-03-14 03:38:03,549 - Sample num: 3394, Batch num: 53
+2024-03-14 03:38:03,562 - Start training!
+2024-03-14 03:38:52,114 - Namespace(adapter=False, adj_type='doubletransition', batch_size=64, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 03:38:52,118 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 03:38:52,409 - Data shape: (16992, 307, 3)
+2024-03-14 03:38:52,700 - Sample num: 10181, Batch num: 159
+2024-03-14 03:38:52,976 - Sample num: 3394, Batch num: 53
+2024-03-14 03:38:53,256 - Sample num: 3394, Batch num: 53
+2024-03-14 03:38:53,270 - Start training!
+2024-03-14 13:18:19,349 - Namespace(adapter=False, adj_type='doubletransition', batch_size=32, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 13:18:19,383 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 13:18:19,832 - Data shape: (16992, 307, 3)
+2024-03-14 13:18:20,155 - Sample num: 10181, Batch num: 318
+2024-03-14 13:18:20,477 - Sample num: 3394, Batch num: 106
+2024-03-14 13:18:20,793 - Sample num: 3394, Batch num: 106
+2024-03-14 13:43:13,480 - Namespace(adapter=False, adj_type='doubletransition', batch_size=32, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-14 13:43:13,484 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-14 13:43:13,796 - Data shape: (16992, 307, 3)
+2024-03-14 13:43:14,076 - Sample num: 10181, Batch num: 318
+2024-03-14 13:43:14,402 - Sample num: 3394, Batch num: 106
+2024-03-14 13:43:14,767 - Sample num: 3394, Batch num: 106
+2024-03-14 13:43:15,071 - Start training!
+2024-03-15 01:21:24,335 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:21:24,355 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:21:25,148 - Data shape: (16992, 307, 3)
+2024-03-15 01:21:25,642 - Sample num: 10181, Batch num: 636
+2024-03-15 01:21:26,294 - Sample num: 3394, Batch num: 212
+2024-03-15 01:21:27,052 - Sample num: 3394, Batch num: 212
+2024-03-15 01:21:27,373 - Start training!
+2024-03-15 01:22:40,652 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:22:40,655 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:22:41,058 - Data shape: (16992, 307, 3)
+2024-03-15 01:22:41,463 - Sample num: 10181, Batch num: 636
+2024-03-15 01:22:41,845 - Sample num: 3394, Batch num: 212
+2024-03-15 01:22:42,229 - Sample num: 3394, Batch num: 212
+2024-03-15 01:22:42,302 - Start training!
+2024-03-15 01:24:08,093 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:24:08,098 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:24:08,816 - Data shape: (16992, 307, 3)
+2024-03-15 01:24:09,350 - Sample num: 10181, Batch num: 636
+2024-03-15 01:24:09,911 - Sample num: 3394, Batch num: 212
+2024-03-15 01:24:10,663 - Sample num: 3394, Batch num: 212
+2024-03-15 01:24:10,707 - Start training!
+2024-03-15 01:26:53,498 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:26:53,507 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:26:54,141 - Data shape: (16992, 307, 3)
+2024-03-15 01:26:54,829 - Sample num: 10181, Batch num: 636
+2024-03-15 01:26:55,466 - Sample num: 3394, Batch num: 212
+2024-03-15 01:26:56,222 - Sample num: 3394, Batch num: 212
+2024-03-15 01:26:56,287 - Start training!
+2024-03-15 01:27:29,286 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:27:29,291 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:27:29,914 - Data shape: (16992, 307, 3)
+2024-03-15 01:27:30,540 - Sample num: 10181, Batch num: 636
+2024-03-15 01:27:30,907 - Sample num: 3394, Batch num: 212
+2024-03-15 01:27:31,232 - Sample num: 3394, Batch num: 212
+2024-03-15 01:27:31,279 - Start training!
+2024-03-15 01:28:19,956 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:28:19,961 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:28:20,588 - Data shape: (16992, 307, 3)
+2024-03-15 01:28:21,091 - Sample num: 10181, Batch num: 636
+2024-03-15 01:28:21,837 - Sample num: 3394, Batch num: 212
+2024-03-15 01:28:22,411 - Sample num: 3394, Batch num: 212
+2024-03-15 01:28:22,451 - Start training!
+2024-03-15 01:29:26,969 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:29:26,973 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:29:27,507 - Data shape: (16992, 307, 3)
+2024-03-15 01:29:28,019 - Sample num: 10181, Batch num: 636
+2024-03-15 01:29:28,537 - Sample num: 3394, Batch num: 212
+2024-03-15 01:29:29,146 - Sample num: 3394, Batch num: 212
+2024-03-15 01:29:29,187 - Start training!
+2024-03-15 01:35:14,867 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:35:14,871 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:35:15,413 - Data shape: (16992, 307, 3)
+2024-03-15 01:35:15,832 - Sample num: 10181, Batch num: 636
+2024-03-15 01:35:16,177 - Sample num: 3394, Batch num: 212
+2024-03-15 01:35:16,500 - Sample num: 3394, Batch num: 212
+2024-03-15 01:35:16,530 - Start training!
+2024-03-15 01:39:04,085 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:39:04,088 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:39:04,606 - Data shape: (16992, 307, 3)
+2024-03-15 01:39:05,132 - Sample num: 10181, Batch num: 636
+2024-03-15 01:39:05,652 - Sample num: 3394, Batch num: 212
+2024-03-15 01:39:06,179 - Sample num: 3394, Batch num: 212
+2024-03-15 01:39:06,226 - Start training!
+2024-03-15 01:40:31,225 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:40:31,231 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:40:31,809 - Data shape: (16992, 307, 3)
+2024-03-15 01:40:32,346 - Sample num: 10181, Batch num: 636
+2024-03-15 01:40:32,821 - Sample num: 3394, Batch num: 212
+2024-03-15 01:40:33,237 - Sample num: 3394, Batch num: 212
+2024-03-15 01:40:33,263 - Start training!
+2024-03-15 01:44:14,686 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:44:14,693 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:44:15,282 - Data shape: (16992, 307, 3)
+2024-03-15 01:44:15,825 - Sample num: 10181, Batch num: 636
+2024-03-15 01:44:16,370 - Sample num: 3394, Batch num: 212
+2024-03-15 01:44:16,934 - Sample num: 3394, Batch num: 212
+2024-03-15 01:44:16,974 - Start training!
+2024-03-15 01:44:36,586 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:44:36,590 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:44:37,146 - Data shape: (16992, 307, 3)
+2024-03-15 01:44:37,696 - Sample num: 10181, Batch num: 636
+2024-03-15 01:44:38,246 - Sample num: 3394, Batch num: 212
+2024-03-15 01:44:38,799 - Sample num: 3394, Batch num: 212
+2024-03-15 01:44:38,850 - Start training!
+2024-03-15 01:45:24,763 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:45:24,768 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:45:25,222 - Data shape: (16992, 307, 3)
+2024-03-15 01:45:25,628 - Sample num: 10181, Batch num: 636
+2024-03-15 01:45:26,109 - Sample num: 3394, Batch num: 212
+2024-03-15 01:45:26,489 - Sample num: 3394, Batch num: 212
+2024-03-15 01:45:26,515 - Start training!
+2024-03-15 01:46:33,860 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:46:33,867 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:46:34,497 - Data shape: (16992, 307, 3)
+2024-03-15 01:46:34,868 - Sample num: 10181, Batch num: 636
+2024-03-15 01:46:35,457 - Sample num: 3394, Batch num: 212
+2024-03-15 01:46:36,048 - Sample num: 3394, Batch num: 212
+2024-03-15 01:46:36,077 - Start training!
+2024-03-15 01:46:56,370 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:46:56,374 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:46:56,921 - Data shape: (16992, 307, 3)
+2024-03-15 01:46:57,573 - Sample num: 10181, Batch num: 636
+2024-03-15 01:46:58,142 - Sample num: 3394, Batch num: 212
+2024-03-15 01:46:58,651 - Sample num: 3394, Batch num: 212
+2024-03-15 01:46:58,693 - Start training!
+2024-03-15 01:50:35,069 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:50:35,079 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:50:35,899 - Data shape: (16992, 307, 3)
+2024-03-15 01:50:36,681 - Sample num: 10181, Batch num: 636
+2024-03-15 01:50:37,452 - Sample num: 3394, Batch num: 212
+2024-03-15 01:50:38,298 - Sample num: 3394, Batch num: 212
+2024-03-15 01:50:38,913 - Start training!
+2024-03-15 01:51:30,262 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:51:30,268 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:51:31,084 - Data shape: (16992, 307, 3)
+2024-03-15 01:51:31,871 - Sample num: 10181, Batch num: 636
+2024-03-15 01:51:32,669 - Sample num: 3394, Batch num: 212
+2024-03-15 01:51:33,425 - Sample num: 3394, Batch num: 212
+2024-03-15 01:51:34,017 - Start training!
+2024-03-15 01:54:34,534 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:54:34,542 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:54:35,306 - Data shape: (16992, 307, 3)
+2024-03-15 01:54:36,116 - Sample num: 10181, Batch num: 636
+2024-03-15 01:54:36,878 - Sample num: 3394, Batch num: 212
+2024-03-15 01:54:37,641 - Sample num: 3394, Batch num: 212
+2024-03-15 01:54:38,201 - Start training!
+2024-03-15 01:56:18,315 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:56:18,318 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:56:18,648 - Data shape: (16992, 307, 3)
+2024-03-15 01:56:18,941 - Sample num: 10181, Batch num: 636
+2024-03-15 01:56:19,235 - Sample num: 3394, Batch num: 212
+2024-03-15 01:56:19,543 - Sample num: 3394, Batch num: 212
+2024-03-15 01:56:19,778 - Start training!
+2024-03-15 01:58:02,767 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=20, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=4, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 01:58:02,771 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 01:58:03,069 - Data shape: (16992, 307, 3)
+2024-03-15 01:58:03,364 - Sample num: 10181, Batch num: 636
+2024-03-15 01:58:03,662 - Sample num: 3394, Batch num: 212
+2024-03-15 01:58:03,961 - Sample num: 3394, Batch num: 212
+2024-03-15 01:58:04,175 - Start training!
+2024-03-15 10:44:49,004 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:44:49,067 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:44:49,462 - Data shape: (16992, 307, 3)
+2024-03-15 10:44:49,798 - Sample num: 10181, Batch num: 636
+2024-03-15 10:44:50,122 - Sample num: 3394, Batch num: 212
+2024-03-15 10:44:50,423 - Sample num: 3394, Batch num: 212
+2024-03-15 10:44:51,098 - Start training!
+2024-03-15 10:46:31,014 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:46:31,017 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:46:31,306 - Data shape: (16992, 307, 3)
+2024-03-15 10:46:31,598 - Sample num: 10181, Batch num: 636
+2024-03-15 10:46:31,877 - Sample num: 3394, Batch num: 212
+2024-03-15 10:46:32,161 - Sample num: 3394, Batch num: 212
+2024-03-15 10:46:32,353 - Start training!
+2024-03-15 10:49:15,541 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:49:15,570 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:49:15,890 - Data shape: (16992, 307, 3)
+2024-03-15 10:49:16,190 - Sample num: 10181, Batch num: 636
+2024-03-15 10:49:16,482 - Sample num: 3394, Batch num: 212
+2024-03-15 10:49:16,773 - Sample num: 3394, Batch num: 212
+2024-03-15 10:49:16,967 - Start training!
+2024-03-15 10:49:46,874 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:49:46,876 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:49:47,162 - Data shape: (16992, 307, 3)
+2024-03-15 10:49:47,443 - Sample num: 10181, Batch num: 636
+2024-03-15 10:49:47,723 - Sample num: 3394, Batch num: 212
+2024-03-15 10:49:48,004 - Sample num: 3394, Batch num: 212
+2024-03-15 10:49:48,202 - Start training!
+2024-03-15 10:50:28,869 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:50:28,873 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:50:29,158 - Data shape: (16992, 307, 3)
+2024-03-15 10:50:29,439 - Sample num: 10181, Batch num: 636
+2024-03-15 10:50:29,724 - Sample num: 3394, Batch num: 212
+2024-03-15 10:50:30,000 - Sample num: 3394, Batch num: 212
+2024-03-15 10:50:30,016 - Start training!
+2024-03-15 10:52:33,150 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:52:33,155 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:52:33,449 - Data shape: (16992, 307, 3)
+2024-03-15 10:52:33,737 - Sample num: 10181, Batch num: 636
+2024-03-15 10:52:34,024 - Sample num: 3394, Batch num: 212
+2024-03-15 10:52:34,360 - Sample num: 3394, Batch num: 212
+2024-03-15 10:52:34,566 - Start training!
+2024-03-15 10:53:02,449 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=True, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:53:02,452 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:53:02,766 - Data shape: (16992, 307, 3)
+2024-03-15 10:53:03,063 - Sample num: 10181, Batch num: 636
+2024-03-15 10:53:03,373 - Sample num: 3394, Batch num: 212
+2024-03-15 10:53:03,682 - Sample num: 3394, Batch num: 212
+2024-03-15 10:53:03,882 - Start training!
+2024-03-15 10:57:30,813 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 10:57:30,816 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 10:57:31,103 - Data shape: (16992, 307, 3)
+2024-03-15 10:57:31,388 - Sample num: 10181, Batch num: 636
+2024-03-15 10:57:31,670 - Sample num: 3394, Batch num: 212
+2024-03-15 10:57:31,955 - Sample num: 3394, Batch num: 212
+2024-03-15 10:57:31,972 - Start training!
+2024-03-15 11:00:06,511 - Namespace(adapter=True, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 11:00:06,514 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 11:00:06,835 - Data shape: (16992, 307, 3)
+2024-03-15 11:00:07,132 - Sample num: 10181, Batch num: 636
+2024-03-15 11:00:07,444 - Sample num: 3394, Batch num: 212
+2024-03-15 11:00:07,777 - Sample num: 3394, Batch num: 212
+2024-03-15 11:00:07,794 - Start training!
+2024-03-15 18:27:53,684 - Namespace(adapter=False, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=12, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=1, num_nalls=4, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-15 18:27:53,746 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-15 18:27:54,255 - Data shape: (16992, 307, 3)
+2024-03-15 18:27:54,664 - Sample num: 10181, Batch num: 636
+2024-03-15 18:27:55,082 - Sample num: 3394, Batch num: 212
+2024-03-15 18:27:55,445 - Sample num: 3394, Batch num: 212
+2024-03-15 18:27:55,463 - Start training!
+2024-03-16 13:45:12,763 - Namespace(adapter=False, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cuda:0', dropout=0.3, embed_dim=32, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=2, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-16 13:45:12,767 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-16 13:45:22,902 - Namespace(adapter=False, adj_type='doubletransition', batch_size=16, clip_grad_value=5, dataset='PEMS04', device='cpu', dropout=0.3, embed_dim=32, frozen=False, horizon=12, input_dim=3, lagcn=False, last_dropout=0.3, last_lr=0.001, last_pool_type='mean', last_weight_decay=0.0001, linear=False, lrate=0.001, max_epochs=200, mode='train', model='stae', nor_adj=False, num_lablocks=2, num_nalls=2, output_dim=1, patience=10, pre_train='', save='test.pth', seed=1, seq_length=12, wdecay=0.0005, years='2018')
+2024-03-16 13:45:22,906 - Adj path: C:\Users\lenovo\Documents\GitHub\LAST/data/pems04/pems04_rn_adj.npy
+2024-03-16 13:45:23,235 - Data shape: (16992, 307, 3)
+2024-03-16 13:45:23,520 - Sample num: 10181, Batch num: 636
+2024-03-16 13:45:23,831 - Sample num: 3394, Batch num: 212
+2024-03-16 13:45:24,141 - Sample num: 3394, Batch num: 212
+2024-03-16 13:45:24,377 - Start training!

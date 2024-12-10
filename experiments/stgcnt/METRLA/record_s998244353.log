@@ -1,0 +1,6 @@
+2023-12-05 15:06:31,044 - Namespace(addition=None, batch_size=64, dataset='METRLA', device='cuda:0', epochs=10, frozen=False, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='stgcnt', output_dim=1, patience=10, pre_train='', seed=998244353, seq_length=12, years='2012')
+2023-12-05 15:06:31,046 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-05 15:06:32,256 - Data shape: (34272, 207, 3)
+2023-12-05 15:06:32,728 - Sample num: 23974, Batch num: 374
+2023-12-05 15:06:33,177 - Sample num: 3425, Batch num: 53
+2023-12-05 15:06:33,636 - Sample num: 6850, Batch num: 107

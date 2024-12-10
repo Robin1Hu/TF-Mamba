@@ -1,0 +1,32 @@
+2023-12-21 01:13:54,088 - Namespace(adapter=True, addition={'n_filters': 64, 'max_diffusion_step': 2, 'filter_type': 'doubletransition', 'num_rnn_layers': 2, 'cl_decay_steps': 2000}, batch_size=128, cl_decay_steps=2000, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, embed_dim=10, filter_type='doubletransition', frozen=False, horizon=12, input_dim=2, lrate=0.001, max_diffusion_step=2, max_epochs=100, mode='train', model='dcrnn', n_filters=64, num_layers=1, num_rnn_layers=2, output_dim=1, patience=10, pre_train='', save='dcrnn_adapter_metrla_1', seed=1, seq_length=12, wdecay=0.0005, years='2012')
+2023-12-21 01:13:54,090 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-21 01:13:55,138 - Data shape: (34272, 207, 3)
+2023-12-21 01:13:55,620 - Sample num: 23974, Batch num: 187
+2023-12-21 01:13:56,379 - Sample num: 3425, Batch num: 26
+2023-12-21 01:13:56,847 - Sample num: 6850, Batch num: 53
+2023-12-21 01:13:57,190 - The number of parameters: 372353
+2023-12-21 01:13:57,193 - Start training!
+2023-12-22 00:34:48,461 - Namespace(adapter=True, addition={'n_filters': 64, 'max_diffusion_step': 2, 'filter_type': 'doubletransition', 'num_rnn_layers': 2, 'cl_decay_steps': 2000}, batch_size=128, cl_decay_steps=2000, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, embed_dim=10, filter_type='doubletransition', frozen=False, horizon=12, input_dim=2, lrate=0.001, max_diffusion_step=2, max_epochs=100, mode='train', model='dcrnn', n_filters=64, num_layers=1, num_rnn_layers=2, output_dim=1, patience=10, pre_train='', save='dcrnn_adapter_metrla_1', seed=1, seq_length=12, wdecay=0.0005, years='2012')
+2023-12-22 00:34:48,462 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-22 00:34:49,305 - Data shape: (34272, 207, 3)
+2023-12-22 00:34:49,743 - Sample num: 23974, Batch num: 187
+2023-12-22 00:34:50,171 - Sample num: 3425, Batch num: 26
+2023-12-22 00:34:50,603 - Sample num: 6850, Batch num: 53
+2023-12-22 00:34:50,895 - The number of parameters: 372353
+2023-12-22 00:34:50,898 - Start training!
+2023-12-22 00:37:14,808 - Namespace(adapter=False, addition={'n_filters': 64, 'max_diffusion_step': 2, 'filter_type': 'doubletransition', 'num_rnn_layers': 2, 'cl_decay_steps': 2000}, batch_size=128, cl_decay_steps=2000, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, embed_dim=10, filter_type='doubletransition', frozen=False, horizon=12, input_dim=2, lrate=0.001, max_diffusion_step=2, max_epochs=100, mode='train', model='dcrnn', n_filters=64, num_layers=1, num_rnn_layers=2, output_dim=1, patience=10, pre_train='', save='dcrnn_metrla_1', seed=1, seq_length=12, wdecay=0.0005, years='2012')
+2023-12-22 00:37:14,809 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-22 00:37:15,576 - Data shape: (34272, 207, 3)
+2023-12-22 00:37:16,002 - Sample num: 23974, Batch num: 187
+2023-12-22 00:37:16,429 - Sample num: 3425, Batch num: 26
+2023-12-22 00:37:16,862 - Sample num: 6850, Batch num: 53
+2023-12-22 00:37:17,140 - The number of parameters: 372353
+2023-12-22 00:37:17,140 - Start training!
+2023-12-22 00:40:14,759 - Namespace(adapter=True, addition={'n_filters': 64, 'max_diffusion_step': 2, 'filter_type': 'doubletransition', 'num_rnn_layers': 2, 'cl_decay_steps': 2000}, batch_size=128, cl_decay_steps=2000, clip_grad_value=5, dataset='METRLA', device='cuda:0', dropout=0.3, embed_dim=10, filter_type='doubletransition', frozen=False, horizon=12, input_dim=2, lrate=0.001, max_diffusion_step=2, max_epochs=100, mode='train', model='dcrnn', n_filters=64, num_layers=1, num_rnn_layers=2, output_dim=1, patience=10, pre_train='', save='dcrnn_adapter_metrla_1', seed=1, seq_length=12, wdecay=0.0005, years='2012')
+2023-12-22 00:40:14,760 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-22 00:40:15,583 - Data shape: (34272, 207, 3)
+2023-12-22 00:40:16,009 - Sample num: 23974, Batch num: 187
+2023-12-22 00:40:16,438 - Sample num: 3425, Batch num: 26
+2023-12-22 00:40:16,871 - Sample num: 6850, Batch num: 53
+2023-12-22 00:40:17,151 - The number of parameters: 372353
+2023-12-22 00:40:17,154 - Start training!

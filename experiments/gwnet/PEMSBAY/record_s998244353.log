@@ -1,0 +1,61 @@
+2023-12-06 12:25:46,375 - Namespace(addition={'adj_type': 'doubletransition', 'adp_adj': 1, 'init_dim': 32, 'skip_dim': 256, 'end_dim': 512, 'lrate': 0.001, 'wdecay': 0.0001, 'dropout': 0.3, 'clip_grad_value': 5}, batch_size=128, dataset='PEMSBAY', device='cuda:3', epochs=10, frozen=False, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='gwnet', output_dim=1, patience=10, pre_train='', save='gwnet_vanilla_PEMSBAY', seed=998244353, seq_length=12, years='2017')
+2023-12-06 12:25:46,376 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pemsbay/pemsbay_rn_adj.npy
+2023-12-06 12:25:50,735 - Data shape: (52116, 325, 3)
+2023-12-06 12:25:51,752 - Sample num: 36465, Batch num: 284
+2023-12-06 12:25:52,769 - Sample num: 5209, Batch num: 40
+2023-12-06 12:25:53,780 - Sample num: 10419, Batch num: 81
+2023-12-06 12:25:54,983 - The number of parameters: 303312
+2023-12-06 12:25:54,983 - Start training!
+2023-12-06 12:28:19,936 - Namespace(addition={'adj_type': 'doubletransition', 'adp_adj': 1, 'init_dim': 32, 'skip_dim': 256, 'end_dim': 512, 'lrate': 0.001, 'wdecay': 0.0001, 'dropout': 0.3, 'clip_grad_value': 5}, batch_size=128, dataset='PEMSBAY', device='cuda:3', epochs=10, frozen=True, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='gwnet', output_dim=1, patience=10, pre_train='gwnet_vanilla', save='gwnet_vanilla_PEMSBAY', seed=998244353, seq_length=12, years='2017')
+2023-12-06 12:28:19,938 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pemsbay/pemsbay_rn_adj.npy
+2023-12-06 12:28:24,198 - Data shape: (52116, 325, 3)
+2023-12-06 12:28:25,252 - Sample num: 36465, Batch num: 284
+2023-12-06 12:28:26,302 - Sample num: 5209, Batch num: 40
+2023-12-06 12:28:27,367 - Sample num: 10419, Batch num: 81
+2023-12-06 12:28:28,567 - The number of parameters: 303312
+2023-12-06 12:28:46,029 - Namespace(addition={'adj_type': 'doubletransition', 'adp_adj': 1, 'init_dim': 32, 'skip_dim': 256, 'end_dim': 512, 'lrate': 0.001, 'wdecay': 0.0001, 'dropout': 0.3, 'clip_grad_value': 5}, batch_size=128, dataset='PEMSBAY', device='cuda:3', epochs=10, frozen=True, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='gwnet', output_dim=1, patience=10, pre_train='./save/gwnet_vanilla', save='gwnet_vanilla_PEMSBAY', seed=998244353, seq_length=12, years='2017')
+2023-12-06 12:28:46,030 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pemsbay/pemsbay_rn_adj.npy
+2023-12-06 12:28:50,394 - Data shape: (52116, 325, 3)
+2023-12-06 12:28:51,514 - Sample num: 36465, Batch num: 284
+2023-12-06 12:28:52,602 - Sample num: 5209, Batch num: 40
+2023-12-06 12:28:53,668 - Sample num: 10419, Batch num: 81
+2023-12-06 12:28:54,894 - The number of parameters: 303312
+2023-12-12 16:59:30,574 - Namespace(addition={'adj_type': 'doubletransition', 'adp_adj': 1, 'init_dim': 32, 'skip_dim': 256, 'end_dim': 512}, adj_type='doubletransition', adp_adj=1, batch_size=128, clip_grad_value=5, dataset='PEMSBAY', device='cuda:0', dropout=0.3, end_dim=512, epochs=10, frozen=False, horizon=12, init_dim=32, input_dim=2, lrate=0.001, mode='train', model='gwnet', output_dim=1, patience=10, pre_train='', save='gwnet_pemsbay', seed=998244353, seq_length=12, skip_dim=256, wdecay=0.0005, years='2017')
+2023-12-12 16:59:30,577 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/pemsbay/pemsbay_rn_adj.npy
+2023-12-12 16:59:31,940 - Data shape: (52116, 325, 3)
+2023-12-12 16:59:32,876 - Sample num: 36465, Batch num: 284
+2023-12-12 16:59:33,810 - Sample num: 5209, Batch num: 40
+2023-12-12 16:59:34,737 - Sample num: 10419, Batch num: 81
+2023-12-12 16:59:35,046 - The number of parameters: 303312
+2023-12-12 16:59:35,047 - Start training!
+2023-12-12 17:04:26,212 - Epoch: 001, Train Loss: 2.1251, Train RMSE: 4.6351, Train MAPE: 0.0490, Valid Loss: 2.0516, Valid RMSE: 4.7334, Valid MAPE: 0.0501, Train Time: 261.9506s/epoch, Valid Time: 29.2144s, LR: 1.0000e-03
+2023-12-12 17:04:26,227 - Val loss decrease from inf to 2.0516
+2023-12-12 17:09:14,809 - Epoch: 002, Train Loss: 1.9194, Train RMSE: 4.2846, Train MAPE: 0.0439, Valid Loss: 2.2157, Valid RMSE: 5.2657, Valid MAPE: 0.0599, Train Time: 259.5411s/epoch, Valid Time: 29.0406s, LR: 1.0000e-03
+2023-12-12 17:14:00,867 - Epoch: 003, Train Loss: 1.8599, Train RMSE: 4.1954, Train MAPE: 0.0424, Valid Loss: 2.0030, Valid RMSE: 4.6031, Valid MAPE: 0.0476, Train Time: 256.8206s/epoch, Valid Time: 29.2367s, LR: 1.0000e-03
+2023-12-12 17:14:00,880 - Val loss decrease from 2.0516 to 2.0030
+2023-12-12 17:18:49,841 - Epoch: 004, Train Loss: 1.8313, Train RMSE: 4.1491, Train MAPE: 0.0417, Valid Loss: 2.1117, Valid RMSE: 4.9224, Valid MAPE: 0.0552, Train Time: 259.5985s/epoch, Valid Time: 29.3629s, LR: 1.0000e-03
+2023-12-12 17:23:38,978 - Epoch: 005, Train Loss: 1.8145, Train RMSE: 4.1223, Train MAPE: 0.0411, Valid Loss: 1.9379, Valid RMSE: 4.4938, Valid MAPE: 0.0462, Train Time: 259.9822s/epoch, Valid Time: 29.1542s, LR: 1.0000e-03
+2023-12-12 17:23:38,999 - Val loss decrease from 2.0030 to 1.9379
+2023-12-12 17:28:27,721 - Epoch: 006, Train Loss: 1.8008, Train RMSE: 4.0874, Train MAPE: 0.0408, Valid Loss: 1.9295, Valid RMSE: 4.4456, Valid MAPE: 0.0455, Train Time: 259.4506s/epoch, Valid Time: 29.2711s, LR: 1.0000e-03
+2023-12-12 17:28:27,735 - Val loss decrease from 1.9379 to 1.9295
+2023-12-12 17:33:14,376 - Epoch: 007, Train Loss: 1.7882, Train RMSE: 4.0546, Train MAPE: 0.0405, Valid Loss: 1.9783, Valid RMSE: 4.5822, Valid MAPE: 0.0488, Train Time: 257.5400s/epoch, Valid Time: 29.1011s, LR: 1.0000e-03
+2023-12-12 17:38:00,734 - Epoch: 008, Train Loss: 1.7795, Train RMSE: 4.0288, Train MAPE: 0.0402, Valid Loss: 1.9112, Valid RMSE: 4.4812, Valid MAPE: 0.0436, Train Time: 256.7503s/epoch, Valid Time: 29.6066s, LR: 1.0000e-03
+2023-12-12 17:38:00,749 - Val loss decrease from 1.9295 to 1.9112
+2023-12-12 17:42:46,167 - Epoch: 009, Train Loss: 1.7580, Train RMSE: 3.9751, Train MAPE: 0.0396, Valid Loss: 1.8912, Valid RMSE: 4.3789, Valid MAPE: 0.0447, Train Time: 256.2653s/epoch, Valid Time: 29.1520s, LR: 1.0000e-03
+2023-12-12 17:42:46,181 - Val loss decrease from 1.9112 to 1.8912
+2023-12-12 17:47:31,403 - Epoch: 010, Train Loss: 1.7439, Train RMSE: 3.9185, Train MAPE: 0.0392, Valid Loss: 1.8644, Valid RMSE: 4.3377, Valid MAPE: 0.0428, Train Time: 255.9326s/epoch, Valid Time: 29.2893s, LR: 1.0000e-03
+2023-12-12 17:47:31,416 - Val loss decrease from 1.8912 to 1.8644
+2023-12-12 17:47:31,416 - best valid_loss:1.864400
+2023-12-12 17:48:31,163 - Horizon 1, Test MAE: 0.8906, Test RMSE: 1.6575, Test MAPE: 0.0171
+2023-12-12 17:48:31,188 - Horizon 2, Test MAE: 1.1782, Test RMSE: 2.3862, Test MAPE: 0.0235
+2023-12-12 17:48:31,213 - Horizon 3, Test MAE: 1.3859, Test RMSE: 2.9674, Test MAPE: 0.0286
+2023-12-12 17:48:31,240 - Horizon 4, Test MAE: 1.5486, Test RMSE: 3.4194, Test MAPE: 0.0329
+2023-12-12 17:48:31,266 - Horizon 5, Test MAE: 1.6797, Test RMSE: 3.7717, Test MAPE: 0.0366
+2023-12-12 17:48:31,291 - Horizon 6, Test MAE: 1.7931, Test RMSE: 4.0575, Test MAPE: 0.0399
+2023-12-12 17:48:31,315 - Horizon 7, Test MAE: 1.8914, Test RMSE: 4.2997, Test MAPE: 0.0429
+2023-12-12 17:48:31,341 - Horizon 8, Test MAE: 1.9784, Test RMSE: 4.5042, Test MAPE: 0.0455
+2023-12-12 17:48:31,366 - Horizon 9, Test MAE: 2.0565, Test RMSE: 4.6824, Test MAPE: 0.0479
+2023-12-12 17:48:31,392 - Horizon 10, Test MAE: 2.1285, Test RMSE: 4.8432, Test MAPE: 0.0501
+2023-12-12 17:48:31,418 - Horizon 11, Test MAE: 2.1974, Test RMSE: 4.9951, Test MAPE: 0.0521
+2023-12-12 17:48:31,441 - Horizon 12, Test MAE: 2.2656, Test RMSE: 5.1376, Test MAPE: 0.0541
+2023-12-12 17:48:31,442 - Average Test MAE: 1.7495, Test RMSE: 3.8935, Test MAPE: 0.0393

@@ -1,0 +1,12 @@
+2023-12-05 16:51:09,185 - Namespace(addition=None, batch_size=128, dataset='METRLA', device='cuda:3', epochs=10, frozen=False, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='train', output_dim=1, patience=10, pre_train='', save='=gwnet_vanilla', seed=998244353, seq_length=12, years='2012')
+2023-12-05 16:51:09,187 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-05 16:51:10,401 - Data shape: (34272, 207, 3)
+2023-12-05 16:51:10,895 - Sample num: 23974, Batch num: 187
+2023-12-05 16:51:11,398 - Sample num: 3425, Batch num: 26
+2023-12-05 16:51:11,909 - Sample num: 6850, Batch num: 53
+2023-12-05 16:52:47,734 - Namespace(addition=None, batch_size=128, dataset='METRLA', device='cuda:3', epochs=10, frozen=False, hidden_dim=8, horizon=12, input_dim=2, mode='train', model='train', output_dim=1, patience=10, pre_train='', save='=gwnet_vanilla', seed=998244353, seq_length=12, years='2012')
+2023-12-05 16:52:47,735 - Adj path: /home/yuxuan/rwl/GWN-LoRA/data/metrla/metrla_rn_adj.npy
+2023-12-05 16:52:48,810 - Data shape: (34272, 207, 3)
+2023-12-05 16:52:49,253 - Sample num: 23974, Batch num: 187
+2023-12-05 16:52:49,780 - Sample num: 3425, Batch num: 26
+2023-12-05 16:52:50,569 - Sample num: 6850, Batch num: 53
